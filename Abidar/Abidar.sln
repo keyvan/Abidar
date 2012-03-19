@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abidar", "Abidar\Abidar.csproj", "{45A90533-B743-47DF-9E97-316D93B9B47B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abidar.Example", "Abidar.Example\Abidar.Example.csproj", "{B523095C-98F9-49A3-AF57-6B543DF99450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A90533-B743-47DF-9E97-316D93B9B47B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A90533-B743-47DF-9E97-316D93B9B47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A90533-B743-47DF-9E97-316D93B9B47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A90533-B743-47DF-9E97-316D93B9B47B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B523095C-98F9-49A3-AF57-6B543DF99450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B523095C-98F9-49A3-AF57-6B543DF99450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B523095C-98F9-49A3-AF57-6B543DF99450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B523095C-98F9-49A3-AF57-6B543DF99450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
