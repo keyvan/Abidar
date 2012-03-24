@@ -6,7 +6,7 @@ Twitter: http://twitter.com/keyvan
 Contact Info: http://keyvan.tel
 ******************************************************************
 Abidar is a task scheduling system for ASP.NET that uses XML
-configuration and and a level of abstraction to execute different
+configuration and a level of abstraction to execute different
 tasks on a regular basis in ASP.NET applications without requiring
 any access to Windows services or other system resources. This
 library can be used easily in all hosting environments such as
