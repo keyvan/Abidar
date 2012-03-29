@@ -16,3 +16,7 @@ The implementaiton is described in details on my blog:
 
 http://keyvan.io/abidar-asp-net-task-scheduling-framework
 http://keyvan.io/abidar-1-0-beta-1
+
+NuGet Package:
+
+http://nuget.org/packages/Abidar
